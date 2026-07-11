@@ -301,7 +301,7 @@ Installation
 
 1. Clone the repository
 
-git clone https://github.com/kishoreksaravana/doc-context.git
+git clone https://github.com/kishoreksaravana18/doc-slim.git
 cd doc-context
 
 2. Create a virtual environment
